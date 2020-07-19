@@ -1,0 +1,37 @@
+Citi Bike Analysis
+
+The data I used came from the Citi Bike trip history database. I used the years 2015 and 2019 to identify different phenomena that could help me draw conclusions about the rides.
+Next, I will go ahead and analyze some of my observations based on the data and some research of past and current events.
+
+
+Overall there was a big observation from the data that I gathered:
+
+I was not expecting to see a reduction in bike rides from 2015 to last year, however after looking at some events that took place in 2015 as well as the situation of car share rides 
+such as Uber this made more sense. In November of 2015 Uber was declaring that they had won New York and by 2019 they had made their debut on the New York Stock Exchange in the most
+watched tech IPO of 2019. The gain in popularity of Uber might have contributed to many switching from bike riding to just requesting a car ride. 
+
+
+My analysis can be divided between two phenomena: 
+
+1. Bike Location and Time
+
+-Mostly used around September and October: Bike used spiked in September or October in both years, and January and February were the lowest usage months. This could be explained by the 
+weather. January is the start of the winter in New York and September tends to have one of the best temperatures of the year, ideal to ride a bike. 
+
+-Top stations in both years were located near important landmarks in New York and New Jersey. 
+Pershing Square North in 2015 was the most used bike station. This station is located in the heart of New York timesquare, right next to the Grand Central Terminal.
+Grove Street Path in 2019 was the most used bike station. This station is located right between the historic downtown of New Jersey and the shore. 
+
+-The most common hours of use coincide with those of start and end of a work day.
+In both years 8 am and 5-6 pm is the most common hour when the bikes are used. 
+
+
+2. Citi Bike Rides by Gender
+
+-Males are more likely to ride a bike. 
+
+-Women have longer trip duration in average.
+
+-The age group that is more likely to ride a bike are those between 35-45 years old. 
+
+ 
